@@ -26,7 +26,7 @@ const firstUser = {
             city: 'Tangerang'
         }
     ],
-    favoriteRestaurant = new Set([
+    favoriteRestaurant: new Set([
         'Bento','Sushi','Pancake','Eggy','Tempura','Bento','Eggy','Padang','Tteok','Sushi','Sushi'
     ])
 };
