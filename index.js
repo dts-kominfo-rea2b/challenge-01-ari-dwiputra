@@ -23,7 +23,8 @@ const firstUser = {
         },
         {
             name: 'SMA 03',
-            city: 'Tangerang'
+            city: 'Tangerang',
+            graduate: null,
         }
     ],
     favoriteRestaurant: new Set([
@@ -57,7 +58,8 @@ const secondUser = {
         },
         {
             name: 'Universitas Maju',
-            city: 'Tangerang'
+            city: 'Tangerang',
+            graduate: null,
         }
     ],
     favoriteRestaurant: new Set([
